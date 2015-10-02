@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 '''this program was originally designed to sort photorec recovered file however,
 it will now sort anything that you throw at it.
 Note this program will create a duplicate of all the files make sure you have
