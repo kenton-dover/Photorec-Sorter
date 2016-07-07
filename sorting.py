@@ -8,7 +8,7 @@ import os
 import shutil
 import sys
 
-__version__ = "4.0"
+__version__ = "4.1"
 
 
 # This will make a destination directory if it does not exist
@@ -80,7 +80,6 @@ def main():
     global filePathList
     check_dest(dest_file)
     check_size(source_file)
-    print(filePathList)
     print("The file size is: ", get_human_read(total_size),
           "do you want to continue? (y/N)")
     cont = input()
