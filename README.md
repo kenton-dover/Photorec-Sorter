@@ -1,7 +1,2 @@
-# sorter
-this program was originally designed to sort photorec recovered file however,
-it will now sort anything that you throw at it.
-Note this program will create a duplicate of all the files make sure you have
-Enough space to do this. This part is on you not the program.
-This program is filed under the IDC (I don't care) License.
-THIS USES PYTHON 3
+# Photorec Sorter
+This program is designed to sort Photorec directories where it recovers files. Since Photorec just dumps files into directories it can be challenging to find the data. This program will sort these files based off of extensions making it easier to find them. 
